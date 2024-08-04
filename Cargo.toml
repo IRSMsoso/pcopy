@@ -1,8 +1,8 @@
 [package]
 name = "pcopy"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-repository = "https://github.com/IRSMsoso/dante-cli"
+repository = "https://github.com/IRSMsoso/pcopy"
 readme = "README.md"
 description = "Simple cli tool to copy a file or directory to a directory with a progress bar"
 license = "MIT"
